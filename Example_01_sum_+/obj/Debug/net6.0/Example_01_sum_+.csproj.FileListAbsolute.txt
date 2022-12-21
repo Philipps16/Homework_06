@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\bin\Debug\net6.0\Example_01_sum_+.exe
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\bin\Debug\net6.0\Example_01_sum_+.deps.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\bin\Debug\net6.0\Example_01_sum_+.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\bin\Debug\net6.0\Example_01_sum_+.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\bin\Debug\net6.0\Example_01_sum_+.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\obj\Debug\net6.0\Example_01_sum_+.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\obj\Debug\net6.0\Example_01_sum_+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\obj\Debug\net6.0\Example_01_sum_+.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\obj\Debug\net6.0\Example_01_sum_+.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\obj\Debug\net6.0\Example_01_sum_+.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\obj\Debug\net6.0\Example_01_sum_+.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\obj\Debug\net6.0\refint\Example_01_sum_+.dll
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\obj\Debug\net6.0\Example_01_sum_+.pdb
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\obj\Debug\net6.0\Example_01_sum_+.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Домашняя работа\Homework_06\Example_01_sum_+\obj\Debug\net6.0\ref\Example_01_sum_+.dll
