@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\GashinovPV\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Учеба\\Домашняя работа\\Homework_06\\Example_02_coordinaty\\Example_02_coordinaty.csproj",
+      "projectUniqueName": "D:\\Митрофанов\\Документы\\ДЗ\\Homework_06\\Example_02_coordinaty\\Example_02_coordinaty.csproj",
       "projectName": "Example_02_coordinaty",
-      "projectPath": "C:\\Users\\user\\Desktop\\Учеба\\Домашняя работа\\Homework_06\\Example_02_coordinaty\\Example_02_coordinaty.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Учеба\\Домашняя работа\\Homework_06\\Example_02_coordinaty\\obj\\",
+      "projectPath": "D:\\Митрофанов\\Документы\\ДЗ\\Homework_06\\Example_02_coordinaty\\Example_02_coordinaty.csproj",
+      "packagesPath": "C:\\Users\\GashinovPV\\.nuget\\packages\\",
+      "outputPath": "D:\\Митрофанов\\Документы\\ДЗ\\Homework_06\\Example_02_coordinaty\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\GashinovPV\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

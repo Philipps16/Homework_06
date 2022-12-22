@@ -1,0 +1,15 @@
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\bin\Debug\net6.0\Example_02_coordinaty.exe
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\bin\Debug\net6.0\Example_02_coordinaty.deps.json
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\bin\Debug\net6.0\Example_02_coordinaty.runtimeconfig.json
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\bin\Debug\net6.0\Example_02_coordinaty.dll
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\bin\Debug\net6.0\Example_02_coordinaty.pdb
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.csproj.AssemblyReference.cache
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.AssemblyInfoInputs.cache
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.AssemblyInfo.cs
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.csproj.CoreCompileInputs.cache
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.dll
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\obj\Debug\net6.0\refint\Example_02_coordinaty.dll
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.pdb
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\obj\Debug\net6.0\Example_02_coordinaty.genruntimeconfig.cache
+D:\Митрофанов\Документы\ДЗ\Homework_06\Example_02_coordinaty\obj\Debug\net6.0\ref\Example_02_coordinaty.dll
